@@ -1,16 +1,16 @@
 # grocery_app
 
-A new Flutter project.
+Grocery App User Part
 
-## Getting Started
+- Complex UI design with Flutter Material Design
+- State management using Provider and ChangeNotifier
+- Firebase integration (Firestore, Authentication, Storage)
+- Clean code architecture and robust form validation
+- Custom navigation implementation
+- Payment gateway integration
+- Real-time data management with Firestore
 
-This project is a starting point for a Flutter application.
+Key technologies: Dart, Flutter, Firebase, Provider
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+![output ss](https://github.com/user-attachments/assets/d012b6d2-e09a-4e80-aee2-254b9d6cce6b)
